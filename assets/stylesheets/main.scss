@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+
+/* Base font family */
+$base-font-family: "Open Sans", sans-serif;
+
+/* Other font families */
+$headline-font-family: "PT Sans", sans-serif;
+
+// Theme skin
+///@import "basically-basic/themes/{{ site.data.theme.skin | default: 'plum' }}";
+//@import "basically-basic/themes/sea";
+
+@import "basically-basic";
+//@import "jekyll-theme-cayman";
+//@import "minima";
+
+
+*:focus {
+    box-shadow: none;
+}
+

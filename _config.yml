@@ -18,7 +18,7 @@ title: Hipcamp Engineering
 logo: /assets/images/logo_icon.png
 description: > 
   Hipcamp Engineering description
-baseurl: ""
+baseurl: "blog"
 github-io-prefix: hipcamp-eng.github.io
 copyright: | 
   Copyright &copy; 2020 <a href="https://www.hipcamp.com/" target="_blank">Hipcamp</a>. All rights reserved.
